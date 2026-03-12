@@ -1,4 +1,4 @@
-# Docusaurus examples
+# Docusaurus examples Changes
 
 These example projects are generated with the init CLI:
 
